@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\D411\Desktop\수강생411\유정완\ConsoleApplication1\ConsoleApplication1.cpp(27,11): warning C4477: 'printf' : 서식 문자열 '%2d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int64_t'입니다.
+  C:\Users\D411\Desktop\수강생411\유정완\ConsoleApplication1\ConsoleApplication1.cpp(27,11):
+  서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  C:\Users\D411\Desktop\수강생411\유정완\ConsoleApplication1\ConsoleApplication1.cpp(27,11):
+  서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  C:\Users\D411\Desktop\수강생411\유정완\ConsoleApplication1\ConsoleApplication1.cpp(27,11):
+  서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  
+  ConsoleApplication1.vcxproj -> C:\Users\D411\Desktop\수강생411\유정완\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
